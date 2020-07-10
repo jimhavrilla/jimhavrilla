@@ -7,7 +7,7 @@
 - 💬 Ask me about anything you want, mental health, code, genetics, whatever.
 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have autism.
+- ⚡ Fast facts: I am autistic, and have a PhD in Human Genetics, BS/MS in Biomedical Engineering.
 
 <!--
 **jimhavrilla/jimhavrilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

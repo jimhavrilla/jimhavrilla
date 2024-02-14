@@ -2,8 +2,8 @@
 - 📫 How to reach me: Twitter: [@jim_havrilla](https://twitter.com/jim_havrilla) (DMs open) or [my website](https://jimhavrilla.github.io).
 - Link to my various sites: https://bio.link/jimhavri
 - 🔭 I've worked on population-scale pathogenic variant and disease association models using rare and common variants combined with electronic health record information.  Now I manage a whole data infrastructure and the analyses and products that come out of that structure.
-- 👯 I’m looking to collaborate on anything you want as long as I have some background in it.
-- 💬 Ask me about anything you want, mental health, code, genetics, whatever.
+- 👯 I’m willing to collaborate on most things as long as I have some background in it, and it advances a field in some way.
+- 💬 Ask me about whatever, sports, mental health, code, genetics, etc.
 - 😄 Pronouns: he/him/his
 - ⚡ Fast facts: I am autistic. I have a PhD in Human Genetics and a BS/MS in Biomedical Engineering.
 
